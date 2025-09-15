@@ -11,7 +11,7 @@ on:
 jobs:
   test:
     name: 🧪 Test on Flutter ${{ matrix.channel }}
-    runs-on: macos-lates
+    runs-on: macos-latest
     strategy:
       matrix:
         channel: [stable, beta]
