@@ -20,7 +20,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Flutt
+      - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
           flutter-version: 'latest'
