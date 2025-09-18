@@ -3,7 +3,7 @@ name: Flutter CI/CD Pipeline
 
 on:
   push:
-    branches: [main, develop]
+    branches: [main, develo]
   pull_request:
     branches: [main, develop]
   workflow_dispatch:
