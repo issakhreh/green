@@ -1,5 +1,5 @@
 # .github/workflows/flutter-ci-cd.yml
-name: Flutter CI/CD Pipelineice
+name: Flutter CI/CD Pipeline
 
 on:
   push:
