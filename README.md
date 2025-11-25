@@ -1,5 +1,5 @@
 # .github/workflows/flutter-ci-cd.yml
-name: Flutter CI/CD Pipeline
+name: Flutter CI/CD Pipelinekol
 on:
   push:
     branches: [main, develop]
